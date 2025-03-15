@@ -1,0 +1,24 @@
+{
+    "devices": [
+        {
+            "name": "Light",
+            "status": "OFF",
+            "intent_on": "smarthome.lights.switch.on",
+            "intent_off": "smarthome.lights.switch.off"
+        },
+        {
+            "name": "AC",
+            "status": "OFF",
+            "temperature": 15,
+            "intent_on": "smarthome.device.switch.on",
+            "intent_off": "smarthome.device.switch.off",
+            "intent_temp": "smarthome.temp.set"
+        },
+        {
+            "name": "TV",
+            "status": "OFF",
+            "intent_on": "smarthome.device.switch.on",
+            "intent_off": "smarthome.device.switch.off"
+        }
+    ]
+}
